@@ -5,7 +5,7 @@ My solutions for the 2021 Advent of Code puzzles.
 ### 🎄 Day 1
 
 - [x] Part ☝🏼 - [d392753](https://github.com/RyanBeiden/advent-of-code-2021/commit/d3927532cee0a386d5b70b2150801d962b632f16)
-- [ ] Part ✌🏼
+- [x] Part ✌🏼 - [91daf66](https://github.com/RyanBeiden/advent-of-code-2021/commit/91daf6673b7a0496a540222954e03bb094ba2405)
 
 ### 🎄 Day 2
 
