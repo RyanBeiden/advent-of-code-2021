@@ -23,5 +23,5 @@
         }
     };
 
-    echo $horizontal * $depth;
+    print($horizontal * $depth . "\n");
 }
